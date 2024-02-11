@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WISEApp Assignment</string>
+    <string name="let_s_eat_quality_food">Wine a little,</string>
+    <string name="quality_food">laugh a lot.</string>
+    <string name="near_restaurants">Near Restaurants</string>
+    <string name="see_all"> See All</string>
+    <string name="rating_star">Rating Star</string>
+    <string name="_4_5">4.5</string>
+    <string name="steve_st_rood">Steve ST Rood</string>
+    <string name="_10_00am_03_30pm">10:00AM - 03:30PM</string>
+    <string name="blue_restaurant">Blue Restaurant</string>
+    <string name="search">Search</string>
+    <string name="searchs">Search...</string>
+    <string name="thumbnail_and_measure">Thumbnail and Measure:</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="category">Category: %1$s</string>
+    <string name="cocktail_image">Cocktail Image</string>
+    <string name="back">Back</string>
+    <string name="sorry_the_selected_cocktail_could_not_be_found">Sorry, the selected cocktail could not be found.</string>
+</resources>
